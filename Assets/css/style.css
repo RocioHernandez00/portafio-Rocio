@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(252, 214, 254);
+}
+
+.bienvenido{
+    width: 100%;
+}
+.bienvenido img{
+    width: 20rem;
+    height: 25rem;
+    border-radius: 100%;
+    object-fit: fill;
+    
+}
+
+.bienvenido h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+} 
+
+.imgrocio img{
+    width: 40rem;
+    height: 30rem;
+}
+
+nav {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p, li {
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2,h5 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card {
+    background-color: rgb(249, 168, 255);
+
+}
+
+footer {
+    position: relative; 
+    width: 100%;
+    padding: 20px 0; 
+}
+
+
+.social-links a {
+    margin: 0 10px; 
+    text-decoration: none; 
+    color: #333; 
+    font-size: 20px; 
+    padding: 5px 10px; 
+    border-radius: 20px; 
+}
+
+.social-links a:hover {
+    color: #007bff; 
+}
+
